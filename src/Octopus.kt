@@ -1,0 +1,1 @@
+class Octopus(var Cycle : Int, var flashed : Boolean)
